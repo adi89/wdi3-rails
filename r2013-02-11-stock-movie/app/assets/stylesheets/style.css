@@ -1,0 +1,133 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Text+Me+One);
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #00A1D9;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: bold;
+  color: #333333;
+}
+
+form {
+}
+
+input, textarea {
+  padding: 2px 5px;
+  font: bold 1em "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color: #47D9BF;
+}
+
+h1, h2, h3 {
+  margin-top: 1.5em;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+p, ul, ol {
+  margin-top: 1.5em;
+  line-height: 160%;
+  font-family: font-family: 'Text Me One', sans-serif;
+}
+
+ul, ol {
+  margin-left: 3em;
+}
+
+blockquote {
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+a {
+  color: #CC6B47;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #3760BF;
+}
+
+
+  .button {
+   border-top: 1px solid #9a97f7;
+   background: #eda751;
+   background: -webkit-gradient(linear, left top, left bottom, from(#fa0808), to(#eda751));
+   background: -webkit-linear-gradient(top, #fa0808, #eda751);
+   background: -moz-linear-gradient(top, #fa0808, #eda751);
+   background: -ms-linear-gradient(top, #fa0808, #eda751);
+   background: -o-linear-gradient(top, #fa0808, #eda751);
+   padding: 6px 12px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 16px;
+   font-family: Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+
+.movie{
+  border: 3px;
+  font-style: bold;
+  padding: 2px;
+  text-align: center;
+}
+
+.hipster{
+  margin:20px;
+  font-style: bold;
+  }
+
+.a{
+  background: url('http://2.bp.blogspot.com/_4hGCGEe4umg/TDABH1PYDpI/AAAAAAAAATs/idUBEcNkIAc/s1600/White-gold-textured-backgro.jpg');
+}
+.b{
+  color: white;
+}
+
+.input{
+  font-size: 15px;
+  font-style: bold;
+}
+
+nav{
+  text-align: center;
+}
